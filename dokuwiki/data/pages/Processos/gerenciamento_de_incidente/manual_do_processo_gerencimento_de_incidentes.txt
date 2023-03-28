@@ -1,0 +1,1 @@
+<callout type="primary">{{ :processos:gerenciamento_de_incidente:manual_do_processo_gerenciamento_de_incidentes.pdf |}}</callout>

@@ -1,0 +1,30 @@
+~~NOCACHE~~
+<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>newspaper-o?36&align=left type="primary"}} Novidades</text>
+
+
+<callout type="info" icon="true">
+Foram adicionados os fluxogramas no dia {{fa>calendar}} 21/03/2023
+
+  * {{:processos:desenho_do_servico:fluxograma_central_de_atendimento.jpg?linkonly |}}\\
+  * {{ :processos:desenho_do_servico:fluxograma_escalation_funcional_-_22.11.2022.pdf |}}\\
+  * {{ :processos:desenho_do_servico:fluxograma_escalation_hierarquico_-_16.11.2022.pdf |}}\\
+  * {{ :processos:desenho_do_servico:fluxograma_gerenciamento_risco_31.08.2022.pdf |}}\\
+  * {{:processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses.png?linkonly |}}\\
+  * {{:processos:desenho_do_servico:fluxograma_incidente.png?linkonly |}}
+  * {{:processos:desenho_do_servico:fluxograma_problemas_01.07.2022.png?linkonly |}}
+</callout>
+
+<callout type="info" icon="true">
+Foram adicionados os manuais no dia {{fa>calendar}} 18/03/2023
+
+  * {{ :processos:gerenciamento_scalation:manual_do_processo_de_escalation_-_02.03.2023.pdf |}}\\
+  * {{ :processos:gerenciamento_de_incidente:manual_do_processo_gerenciamento_de_incidentes.pdf |}}\\
+  * {{ :processos:gerenciamento_de_problemas:manual_do_processo_gerenciamento_de_problemas_02.03.2023.pdf |}}\\
+  * {{ :processos:gerenciamento_de_mudanca:manual_do_processo_gerenciamento_de_mudancas_08.03.2023.pdf |}}\\
+  * {{ :processos:gerenciamento_seguranca_da_informacao:manual_do_processo_gestao_de_riscos_de_seguranca_da_informacao_02.03.2023.pdf |}}
+</callout>
+
+<callout type="info" icon="true">
+Foi adicionado a planilha de gerenciamento de ativos no dia {{fa>calendar}} 10/03/2023
+  * {{ :processos:gerenciamento_de_ativos:ses_contas_depat_e_inst_29_07_22_v1.xlsx |}}
+</callout>

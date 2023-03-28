@@ -1,0 +1,15 @@
+~~NOCACHE~~
+<nav type="pills">
+  * {{fa>home}}[[:start|Inicio]]
+  * {{fa>sitemap}}[[:wiki:indice|Indice]]
+  * {{glyphicon>book}} Base de Conhecimento
+    * {{mdi>settings}}[[:processsos:base_de_conhecimento:so|SO]]
+    * {{fa>database}}[[:processos:base_de_conhecimento:bd|BD]]
+    * {{fa>linux}}[[:processos:base_de_conhecimento:Linux|Linux]]
+    * {{fa>windows}}[[:processos:base_de_conhecimento:Windows|Windows]]
+    * {{fa>server}}[[:processos:base_de_conhecimento:redes|Redes]]
+    * {{fa>fax}}[[:processos:base_de_conhecimento:service_desk|Service Desk]]
+  * {{glyphicon>education}}[[:Treinamentos:cronograma|Treinamento]]
+  * {{fa>newspaper-o}}[[:wiki:news|Novidades]]
+</nav>
+~~NOCACHE~~

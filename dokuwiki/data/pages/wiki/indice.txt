@@ -1,0 +1,4 @@
+~~NOCACHE~~
+<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>sitemap?36&align=left type="primary"}} Índice</text>
+
+{{indexmenu>#1|js#bj-tango.png navbar}}

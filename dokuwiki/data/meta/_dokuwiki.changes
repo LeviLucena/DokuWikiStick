@@ -1,0 +1,74 @@
+1679406772	::1	E	processos:desenho_do_servico:fluxograma_escalation_funcional	levi			68
+1679406846	::1	E	processos:desenho_do_servico:fluxograma_central_de_atendimento	levi			34
+1679406976	127.0.0.1	D	processos:desenho_do_servico:fluxograma_escalation_hierarquico		removida - edição externa (Unknown date)		-87
+1679406988	::1	C	processos:desenho_do_servico:fluxograma_escalation_hierarquico	levi	criada		155
+1679407095	127.0.0.1	D	processos:desenho_do_servico:fluxograma_gerenciamento_risco		removida - edição externa (Unknown date)		-82
+1679407108	::1	C	processos:desenho_do_servico:fluxograma_gerenciamento_risco	levi	criada		149
+1679407251	127.0.0.1	D	processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses		removida - edição externa (Unknown date)		-76
+1679407268	::1	C	processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses	levi	criada		118
+1679407408	::1	E	processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses	levi			0
+1679407514	::1	E	processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses	levi			31
+1679408082	127.0.0.1	D	processos:desenho_do_servico:fluxograma_incidente		removida - edição externa (Unknown date)		-63
+1679408094	::1	C	processos:desenho_do_servico:fluxograma_incidente	levi	criada		130
+1679408110	::1	E	processos:desenho_do_servico:fluxograma_incidente	levi	criada		-1
+1679409244	::1	C	processos:base_de_conhecimento:service_desk	levi	criada		271
+1679409426	127.0.0.1	D	processos:base_de_conhecimento:service_desk		removida - edição externa (Unknown date)		-271
+1679409440	::1	C	processos:base_de_conhecimento:service_desk	levi	criada		270
+1679409592	127.0.0.1	D	processos:base_de_conhecimento:service_desk		removida - edição externa (Unknown date)		-270
+1679409604	::1	C	processos:base_de_conhecimento:service_desk	levi	criada		270
+1679409778	::1	E	navbar	levi			1
+1679409878	127.0.0.1	D	processos:desenho_do_servico:fluxograma_problemas		removida - edição externa (Unknown date)		-74
+1679409892	::1	C	processos:desenho_do_servico:fluxograma_problemas	levi	criada		116
+1679409994	::1	E	processos:desenho_do_servico:fluxograma_problemas	levi			0
+1679411244	127.0.0.1	D	processos:desenho_do_servico:fluxograma_incidente		removida - edição externa (Unknown date)		-129
+1679411260	::1	C	processos:desenho_do_servico:fluxograma_incidente	levi	criada		105
+1679411318	::1	C	processos:gerenciamento_de_incidente:fluxograma_gestao_de_incidente	levi	criada		105
+1679411860	::1	C	processos:gerenciamento_de_incidente:manual_do_processo_gerencimento_de_incidentes	levi	criada		129
+1679412015	127.0.0.1	D	processos:gerenciamento_de_incidente:fluxograma_gestao_de_incidente		removida - edição externa (Unknown date)		-105
+1679412030	::1	C	processos:gerenciamento_de_incidente:fluxograma_gestao_de_incidente	levi	criada		105
+1679412224	127.0.0.1	D	processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses		removida - edição externa (Unknown date)		-149
+1679412236	::1	C	processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses	levi	criada		118
+1679412264	::1	C	processos:gerenciamento_de_mudanca:fluxograma_gestao_de_mudanca	levi	criada		118
+1679412486	::1	C	processos:gerenciamento_de_mudanca:manual_do_processo_gerenciamento_de_mudancas	levi	criada		136
+1679412748	::1	C	processos:gerenciamento_seguranca_da_informacao:fluxograma_gerenciamento_risco	levi	criada		135
+1679412807	127.0.0.1	D	processos:desenho_do_servico:fluxograma_gerenciamento_risco		removida - edição externa (Unknown date)		-149
+1679412818	::1	C	processos:desenho_do_servico:fluxograma_gerenciamento_risco	levi	criada		116
+1679412860	::1	E	processos:gerenciamento_seguranca_da_informacao:fluxograma_gerenciamento_risco	levi			-19
+1679413048	::1	C	processos:gerenciamento_seguranca_da_informacao:manual_do_processo_gestao_de_riscos_de_seguranca_da_informacao	levi	criada		167
+1679413321	127.0.0.1	D	processos:desenho_do_servico:fluxograma_central_de_atendimento		removida - edição externa (Unknown date)		-111
+1679413336	::1	C	processos:desenho_do_servico:fluxograma_central_de_atendimento	levi	criada		118
+1679413467	127.0.0.1	D	processos:desenho_do_servico:fluxograma_escalation_funcional		removida - edição externa (Unknown date)		-153
+1679413480	::1	C	processos:desenho_do_servico:fluxograma_escalation_funcional	levi	criada		119
+1679413607	127.0.0.1	D	processos:desenho_do_servico:fluxograma_escalation_hierarquico		removida - edição externa (Unknown date)		-155
+1679413622	::1	C	processos:desenho_do_servico:fluxograma_escalation_hierarquico	levi	criada		122
+1679413929	127.0.0.1	D	processos:desenho_do_servico:fluxograma_problemas		removida - edição externa (Unknown date)		-116
+1679413944	::1	C	processos:desenho_do_servico:fluxograma_problemas	levi	criada		116
+1679414098	::1	C	processos:gerenciamento_de_problemas:manual_do_processo_gerenciamento_de_problemas	levi	criada		139
+1679414856	::1	C	processos:gerenciamento_scalation:manual_do_processo_de_escalation	levi	criada		125
+1679416310	::1	C	treinamentos:treinamento_17-06-2022:arquivos	levi	criada		223
+1679416724	::1	E	treinamentos:treinamento_28-10-2022:arquivos	levi			415
+1679419280	127.0.0.1	C	processos:gerenciamento_de_ativos:planilha_gerenciamento_de_ativos		criada - edição externa		0
+1679419494	::1	E	processos:gerenciamento_de_ativos:planilha_gerenciamento_de_ativos	levi			116
+1679419608	::1	C	wiki:news	levi	criada		1763
+1679419622	::1	E	wiki:news	levi	criada		1
+1679419966	::1	E	start	levi			903
+1679420002	::1	E	wiki:news	levi			-1
+1679420090	::1	E	wiki:indice	levi			12
+1679420662	::1	E	navbar	levi			214
+1679420796	::1	E	navbar	levi			-44
+1679420984	::1	E	navbar	levi			-6
+1679421136	::1	E	navbar	levi			6
+1679421202	::1	E	navbar	levi			-170
+1679421344	::1	E	processos:base_de_conhecimento:service_desk	levi			132
+1679421394	::1	E	wiki:indice	levi			-11
+1679421446	::1	E	start	levi			-669
+1679421562	::1	E	start	levi			-89
+1679484672	127.0.0.1	C	treinamentos:cronograma		criada - edição externa		0
+1679486246	::1	E	treinamentos:cronograma	levi			826
+1679486422	::1	E	navbar	levi			24
+1679486500	::1	E	navbar	levi			-10
+1679486522	::1	E	navbar	levi			-1
+1679486626	::1	E	navbar	levi			-12
+1679486772	::1	E	navbar	levi			11
+1679486850	::1	E	navbar	levi			1
+1679486942	::1	E	navbar	levi			1

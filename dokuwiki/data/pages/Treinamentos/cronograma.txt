@@ -1,0 +1,17 @@
+<text type="primary" size="37px" align="nowrap" transform="capitalize">{{glyphicon>education?36&align=left type="primary"}} Treinamento</text>
+
+<callout type="info" icon="true">
+Evento realizado no dia {{fa>calendar}} 28/10/2022
+  * {{ :treinamentos:treinamento_28-10-2022:boas_praticas.pptx |}}
+  * {{ :treinamentos:treinamento_28-10-2022:itil_4_foundation_apresentacao_ses_-_resumo.pptx |}}
+  * {{ :treinamentos:treinamento_28-10-2022:treinamento_service_desk_28.10.2022.pptx |}}
+  * {{ :treinamentos:treinamento_28-10-2022:lista_de_presenca.pdf |}}
+</callout>
+
+<callout type="info" icon="true">
+Evento realizado no dia {{fa>calendar}} 17/06/2022
+  * {{ :treinamentos:treinamento_17-06-2022:boas_praticas.pptx |}}
+  * {{ :treinamentos:treinamento_17-06-2022:itil_4_foundation_apresentacao_ses_-_resumo.pptx |}}
+</callout>
+
+

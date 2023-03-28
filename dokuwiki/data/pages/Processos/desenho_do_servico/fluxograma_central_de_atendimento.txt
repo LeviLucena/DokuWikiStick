@@ -1,0 +1,1 @@
+<callout type="primary">{{:processos:desenho_do_servico:fluxograma_central_de_atendimento.jpg?direct&600 |}}</callout>
