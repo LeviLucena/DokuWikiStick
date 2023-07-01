@@ -37,4 +37,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues relatando
 
 ## Licença
 
-Este projeto não é licenciado fique a disposição para oferecer melhorias e aprimoramentos.
+Este projeto não é licenciado.
