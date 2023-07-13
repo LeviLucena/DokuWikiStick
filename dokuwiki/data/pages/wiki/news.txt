@@ -26,5 +26,5 @@ Foram adicionados os manuais no dia {{fa>calendar}} 18/03/2023
 
 <callout type="info" icon="true">
 Foi adicionado a planilha de gerenciamento de ativos no dia {{fa>calendar}} 10/03/2023
-  * {{ :processos:gerenciamento_de_ativos:ses_contas_depat_e_inst_29_07_22_v1.xlsx |}}
+  * {{ :processos:gerenciamento_de_ativos:s.xlsx |}}
 </callout>
