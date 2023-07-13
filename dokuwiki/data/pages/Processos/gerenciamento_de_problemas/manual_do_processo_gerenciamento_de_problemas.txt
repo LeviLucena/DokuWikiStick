@@ -1,1 +1,0 @@
-<callout type="primary">{{ :processos:gerenciamento_de_problemas:manual_do_processo_gerenciamento_de_problemas_02.03.2023.pdf |}}</callout>
