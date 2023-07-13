@@ -1,4 +1,0 @@
-<callout type="primary">{{ :treinamentos:treinamento_28-10-2022:boas_praticas.pptx |}}</callout>
-<callout type="primary">{{ :treinamentos:treinamento_28-10-2022:itil_4_foundation_apresentacao_ses_-_resumo.pptx |}}</callout>
-<callout type="primary">{{ :treinamentos:treinamento_28-10-2022:treinamento_service_desk_28.10.2022.pptx |}}</callout>
-<callout type="primary">{{ :treinamentos:treinamento_28-10-2022:lista_de_presenca.pdf |}}</callout>

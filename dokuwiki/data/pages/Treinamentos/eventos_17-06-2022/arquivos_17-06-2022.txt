@@ -1,2 +1,0 @@
-<callout type="primary">{{ :treinamentos:treinamento_17-06-2022:boas_praticas.pptx |}}</callout>
-<callout type="primary">{{ :treinamentos:treinamento_17-06-2022:itil_4_foundation_apresentacao_ses_-_resumo.pptx |}}</callout>
