@@ -1,0 +1,29 @@
+/********** página elaborada por Levi Lucena https://www.linkedin.com/in/levilucena/ **********/
+<nav type="pills" justified="true">
+  * {{fa>home}}[[:pagina_inicial|Inicio]]
+  * {{fa>sitemap}}[[https:/|Índice]]
+  * {{glyphicon>book}} Base de Conhecimento
+    * {{mdi>settings}}[[base:so|SO]]
+    * {{fa>database}}[[base:bd|BD]]
+    * {{fa>linux}}[[base:linux|Linux]]
+    * {{fa>windows}}[[base:windows|Windows]]
+    * {{fa>server}}[[base:redes|Redes]]
+    * {{fa>fax}}[[base:service_desk|Service Desk]]
+  * {{glyphicon>education}}[[treinamentos:tutoriais|Treinamento]]
+  * {{fa>newspaper-o}}[[novidades:news|Novidades]]
+</nav>
+\\
+
+<jumbotron>
+====== Treinamentos ======
+
+{{glyphicon>education?32&left}} Tutoriais com instruções ou explicações relativas a um assunto específico.
+</jumbotron>
+
+/**********
+<callout type="info" icon="true">
+ Evento realizado no dia {{fa>calendar}} 28/10/2022 
+  
+</callout>
+**********/
+<button type="primary" icon="glyphicon glyphicon-list"> Todos os Tutoriais</button>
