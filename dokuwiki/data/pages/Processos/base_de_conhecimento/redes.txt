@@ -1,0 +1,31 @@
+/********** página elaborada por Levi Lucena https://www.linkedin.com/in/levilucena/ **********/
+
+<nav type="pills" justified="true">
+  * {{fa>home}}[[:pagina_inicial|Inicio]]
+  * {{fa>sitemap}}[[https://|Índice]]
+  * {{glyphicon>book}} Base de Conhecimento
+    * {{mdi>settings}}[[base:so|SO]]
+    * {{fa>database}}[[base:bd|BD]]
+    * {{fa>linux}}[[base:linux|Linux]]
+    * {{fa>windows}}[[base:windows|Windows]]
+    * {{fa>server}}[[base:redes|Redes]]
+    * {{fa>fax}}[[base:service_desk|Service Desk]]
+  * {{glyphicon>education}}[[treinamentos:tutoriais|Treinamento]]
+  * {{fa>newspaper-o}}[[novidades:news|Novidades]]
+</nav>
+\\
+
+~~NOTOC~~
+<jumbotron>
+====== Redes ======
+{{fa>server?32&left}} Manuais básicos de operações Redes com instruções relativas a um assunto específico.
+</jumbotron>
+
+<row>
+<col sm="6">
+<jumbotron>
+Manual Básico de Operações Redes \\
+<btn type="success" icon="fa fa-book"> Saiba Mais</btn>
+</jumbotron>
+</col>
+</row>
