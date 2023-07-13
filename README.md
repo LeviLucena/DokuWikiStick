@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto de Base de Conhecimento desenvolvido no DokuWiki. A Base de Conhecimento é uma coleção de manuais, procedimentos e treinamentos relacionados a diferentes áreas, como Redes, Banco de Dados, Sistemas Operacionais (SO), Windows, Linux e Service Desk.
 
-![WikiSEESP](https://github.com/LeviLucena/DokuWikiStick/assets/34045910/67357b21-5e12-45b1-82cd-2c02d92e68ac)
+![Base de Conhecimento](https://github.com/LeviLucena/DokuWikiStick/assets/34045910/f31427ba-18b8-46a8-9a2f-3b1f4ed11c89)
 
 
 ## Visão Geral
