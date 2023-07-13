@@ -1,1 +1,0 @@
-<callout type="primary">{{:processos:desenho_do_servico:fluxograma_problemas_01.07.2022.png?direct&600 |}}</callout>
