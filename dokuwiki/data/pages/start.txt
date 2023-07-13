@@ -1,13 +1,30 @@
+/********** página elaborada por Levi Lucena https://www.linkedin.com/in/levilucena/ **********/
+~~NOCACHE~~
+<nav type="pills" justified="true">
+  * {{fa>home}}[[:pagina_inicial|Inicio]]
+  * {{fa>sitemap}}[[https://|Índice]]
+  * {{glyphicon>book}} Base de Conhecimento
+    * {{mdi>settings}}[[base:so|SO]]
+    * {{fa>database}}[[base:bd|BD]]
+    * {{fa>linux}}[[base:linux|Linux]]
+    * {{fa>windows}}[[base:windows|Windows]]
+    * {{fa>server}}[[base:redes|Redes]]
+    * {{fa>fax}}[[base:service_desk|Service Desk]]
+  * {{glyphicon>education}}[[treinamentos:tutoriais|Treinamento]]
+  * {{fa>newspaper-o}}[[novidades:news|Novidades]]
+</nav>
+\\
+
 <text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>newspaper-o?32}} Novidades</text>
 
-  * {{:processos:desenho_do_servico:fluxograma_o.jpg?linkonly |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_.pdf |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_-_16.11.2022.pdf |}}\\
-  * {{ :processos:gerenciamento_seguranca_da_informacao:manual_.pdf|}}\\
+  * [[ :base:service_desk:servicedesk | Base de Conhecimento Service Desk]] :!: \\
+  * [[ :base:service_desk:s | Manual Básico de Operações Sistema - Documentos]] :!: \\
+  * [[ :procedimentos:k:manual_de_utilizacao | Procedimentos]]  \\
+  * [[ :procedimentos:o:manual_do_atendente | Manual do Atendente]]  \\
 
-<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>building-o?32}} Título</text>
+<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>building-o?32}} Titulo</text>
 
-  * Procedimentos\\
+  * [[https:/|Procedimentos]]\\
   * POP's - Procedimentos Operacionais Padrão / Templates\\
   * BPMN - Processos Operacionais / Padronização Sistema\\
   * Software - Softwares Essenciais e Auxiliares para utilizar o sistema\\
@@ -16,9 +33,8 @@
 
   * Painel de Desenvolvimento Service Desk\\
   * Ferramentas de Desenvolvimento: Configurações para ferramentas de Desenvolvimento\\
-  * Governança : Saiba mais sobre a Arquitetura Orientada a Serviços do e consulte o Catalogo de Serviços\\
+  * Governança: Saiba mais sobre a Arquitetura Orientada a Serviços e consulte o Catalogo de Serviços\\
 
 <text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>list-ul?32}} Estrutura Wiki</text>
 
-  * [[wiki:indice|Índice]]\\
-  * [[wiki:tutorial|Tutorial]]\\
+  * [[https://|Índice]]\\
