@@ -1,5 +1,4 @@
 <text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>fax?36&align=left type="primary"}} Service Desk</text>
 
 <callout type="primary">{{ :processos:base_de_conhecimento:base_de_conhecimento_campanha_16.03.2023.pdf |}}</callout>
-<callout type="primary">{{ :processos:base_de_conhecimento:manual
-.pdf |}}</callout>
+<callout type="primary">{{ :processos:base_de_conhecimento:manual.pdf |}}</callout>
