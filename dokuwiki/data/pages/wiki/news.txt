@@ -1,30 +1,60 @@
-~~NOCACHE~~
-<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>newspaper-o?36&align=left type="primary"}} Novidades</text>
+/********** página elaborada por Levi Lucena https://www.linkedin.com/in/levilucena/ **********/
+<nav type="pills" justified="true">
+  * {{fa>home}}[[:pagina_inicial|Inicio]]
+  * {{fa>sitemap}}[[https://|Índice]]
+  * {{glyphicon>book}} Base de Conhecimento
+    * {{mdi>settings}}[[base:so|SO]]
+    * {{fa>database}}[[base:bd|BD]]
+    * {{fa>linux}}[[base:linux|Linux]]
+    * {{fa>windows}}[[base:windows|Windows]]
+    * {{fa>server}}[[base:redes|Redes]]
+    * {{fa>fax}}[[base:service_desk|Service Desk]]
+  * {{glyphicon>education}}[[treinamentos:tutoriais|Treinamento]]
+  * {{fa>newspaper-o}}[[novidades:news|Novidades]]
+</nav>
+\\
+~~NOTOC~~
+<jumbotron>
+====== Novidades ======
 
+{{fa>newspaper-o?32&left}} Listagem completa de todas as atualizações.
+</jumbotron>
+
+<callout type="info" icon="true">
+Foram adicionadas as seguintes atualizações no mês de {{fa>calendar}} Abril 2023
+
+  * [[ :base:service_desk:ses_servicedesk | Base de ConhecimentoService Desk]]\\
+  * [[ :base:service_desk:sem | Manual Básico de Operações Sistema - Documentos Digitais]]\\
+  * [[ :procedimentos:k:manual_de_utilizacao | Procedimentos K]]\\
+  * [[ :procedimentos:o:manual_do_atendente | Manual do Atendente O]]\\
+  * [[ :procedimentos:office365:office365_ajuste_timezone_conta_de_email | Procedimentos Office 365 Ajuste TimeZone]]
+  * [[ :procedimentos:office365:office365_bloquear_remetentes_suspeitos_no_outlook| Procedimentos Office 365 Bloquear Remetentes Suspeitos]]
+  * [[ :procedimentos:office365:office365_configuracao_email_no_thunderbird | Procedimentos Office 365 Configuração de Email no ThunderBird ]]
+  * [[ :procedimentos:office365:office365_configuracao_pop3_no_outlook | Procedimentos Office 365 Configuração Pop3 no Outlook]]
+  * [[ :procedimentos:office365:office365_criar_regra_de_redirect_no_365 | Procedimentos Office 365 Criar Regra no Redirect ]]
+  * [[ :procedimentos:office365:office365_inserir_assinatura_de_email | Procedimentos Office 365 Inserir Assinatura ]]
+  * [[ :procedimentos:office365:office365_lixo_eletronico | Procedimentos Office 365 Lixo Eletrônico ]]
+  * [[ :procedimentos:office365:office365_redefinir_mfa | Procedimentos Office 365 Redefinir MFA ]]
+  * [[ :procedimentos:office365:office365_teams_guia_de_uso_microsoft_teams | Procedimentos Office 365 Guia de Uso Teams ]]
+  * [[ :procedimentos:office365:office365_tutorial_de_como_acessar_office365_ses | Procedimentos Office 365 Como Acessar Office 365 ]]
+  * [[ :procedimentos:office365:office365_verificar_status_licenca | Procedimentos Office 365 Verificar Status da Licença ]]
+  * [[ :procedimentos:vpn:vpn_instrucoes_detalhadas | VPN Instruções Detalhadas ]]
+  * [[ :procedimentos:vpn:vpn_instrucoes_detalhadas_de_acesso_com_rdp | VPN Instruções Detalhadas de Acesso com RDP ]]
+  * [[ :procedimentos:vpn:vpn_requisitos_para_acesso_vpn_com_remote_desktop | VPN Instruções Detalhadas de Acesso com Remote Desktop ]]
+  * [[ :procedimentos:vpn:vpn_requisitos_para_acesso_vpn_com_remote_desktop | VPN SES – Requisitos para acesso ao Remote Desktop ]] 
+  * [[ :procedimentos:wifi:wifi_manual_conexao_rede_wifi_corporativo_2_smartphone_e_tablet | Manual Conexão Wifi com a Rede Wifi Corporativo 2 (Smartphone e Tablet) ]]
+  * [[ :procedimentos:wifi:wifi_manual_conexao_wifi_corporativo_notebook | Manual Conexão Wifi com a Rede Wifi Corporativo (Notebook) ]]
+
+</callout>
 
 <callout type="info" icon="true">
 Foram adicionados os fluxogramas no dia {{fa>calendar}} 21/03/2023
 
-  * {{:processos:desenho_do_servico:fluxograma_central_de_atendimento.jpg?linkonly |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_escalation_funcional_-_22.11.2022.pdf |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_escalation_hierarquico_-_16.11.2022.pdf |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_gerenciamento_risco_31.08.2022.pdf |}}\\
-  * {{:processos:desenho_do_servico:fluxograma_gestao_de_mudancas_ses.png?linkonly |}}\\
-  * {{:processos:desenho_do_servico:fluxograma_incidente.png?linkonly |}}
-  * {{:processos:desenho_do_servico:fluxograma_problemas_01.07.2022.png?linkonly |}}
-</callout>
-
-<callout type="info" icon="true">
-Foram adicionados os manuais no dia {{fa>calendar}} 18/03/2023
-
-  * {{ :processos:gerenciamento_scalation:manual_do_processo_de_escalation_-_02.03.2023.pdf |}}\\
-  * {{ :processos:gerenciamento_de_incidente:manual_do_processo_gerenciamento_de_incidentes.pdf |}}\\
-  * {{ :processos:gerenciamento_de_problemas:manual_do_processo_gerenciamento_de_problemas_02.03.2023.pdf |}}\\
-  * {{ :processos:gerenciamento_de_mudanca:manual_do_processo_gerenciamento_de_mudancas_08.03.2023.pdf |}}\\
-  * {{ :processos:gerenciamento_seguranca_da_informacao:manual_do_processo_gestao_de_riscos_de_seguranca_da_informacao_02.03.2023.pdf |}}
-</callout>
-
-<callout type="info" icon="true">
-Foi adicionado a planilha de gerenciamento de ativos no dia {{fa>calendar}} 10/03/2023
-  * {{ :processos:gerenciamento_de_ativos:s.xlsx |}}
+  * {{ :fluxograma:fluxograma_central_de_atendimento.jpg?linkonly | Fluxograma Central de Atendimento}}\\
+  * {{ :fluxograma:fluxograma_escalation_funcional_-_22.11.2022.pdf?linkonly | Fluxograma Escalation Funcional}}\\
+  * {{ :fluxograma:fluxograma_escalation_hierarquico_-_16.11.2022.pdf?linkonly |Fluxograma Escalation Hierárquico}}\\
+  * {{ :fluxograma:fluxograma_gerenciamento_risco_31.08.2022.pdf?linkonly |Fluxograma Gerenciamento de Risco}}\\
+  * {{ :fluxograma:fluxograma_gestao_de_mudancas_ses.png?linkonly |Fluxograma Gerenciamento de Mudança}}\\
+  * {{ :fluxograma:fluxograma_incidente.png?linkonly |Fluxograma Gerenciamento de Incidente}}\\
+  * {{ :fluxograma:fluxograma_problemas_01.07.2022.png?linkonly |Fluxograma Gerenciamento de Problemas}}\\
 </callout>
