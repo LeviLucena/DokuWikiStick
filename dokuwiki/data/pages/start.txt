@@ -1,23 +1,22 @@
 <text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>newspaper-o?32}} Novidades</text>
 
-  * {{:processos:desenho_do_servico:fluxograma_central_de_atendimento.jpg?linkonly |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_escalation_funcional_-_22.11.2022.pdf |}}\\
-  * {{ :processos:desenho_do_servico:fluxograma_escalation_hierarquico_-_16.11.2022.pdf |}}\\
-  * {{ :processos:gerenciamento_seguranca_da_informacao:manual_do_processo_gestao_de_riscos_de_seguranca_da_informacao_02.03.2023.pdf |}}\\
-  * {{ :processos:gerenciamento_de_ativos:ses_contas_depat_e_inst_29_07_22_v1.xlsx |}}\\
+  * {{:processos:desenho_do_servico:fluxograma_o.jpg?linkonly |}}\\
+  * {{ :processos:desenho_do_servico:fluxograma_.pdf |}}\\
+  * {{ :processos:desenho_do_servico:fluxograma_-_16.11.2022.pdf |}}\\
+  * {{ :processos:gerenciamento_seguranca_da_informacao:manual_.pdf|}}\\
 
-<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>building-o?32}} SES - Secretaria de Estado da Saúde</text>
+<text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>building-o?32}} Título</text>
 
   * Procedimentos\\
   * POP's - Procedimentos Operacionais Padrão / Templates\\
-  * BPMN - Processos Operacionais / Padronização Sistema Sem Papel\\
+  * BPMN - Processos Operacionais / Padronização Sistema\\
   * Software - Softwares Essenciais e Auxiliares para utilizar o sistema\\
 
 <text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>cogs?32}} Desenvolvimento</text>
 
   * Painel de Desenvolvimento Service Desk\\
   * Ferramentas de Desenvolvimento: Configurações para ferramentas de Desenvolvimento\\
-  * Governança SOA: Saiba mais sobre a Arquitetura Orientada a Serviços do S4SP e consulte o Catalogo de Serviços SOArvice-Oriented Architecture (SOA) SSI\\
+  * Governança : Saiba mais sobre a Arquitetura Orientada a Serviços do e consulte o Catalogo de Serviços\\
 
 <text type="primary" size="37px" align="nowrap" transform="capitalize">{{fa>list-ul?32}} Estrutura Wiki</text>
 
