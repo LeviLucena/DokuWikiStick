@@ -27,7 +27,7 @@ O projeto está organizado da seguinte forma:
 
 ## Instalação
 
-1. Faça o download dos arquivos deste repositório.
+1. Faça o download dos arquivos deste repositório. (Foram removidos alguns arquivos)
 2. Configure um servidor web com suporte ao PHP e ao DokuWiki.
 3. Crie um banco de dados (caso necessário) e configure as informações de conexão no DokuWiki.
 4. Copie os arquivos do repositório para o diretório do DokuWiki no servidor web.
